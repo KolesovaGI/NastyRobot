@@ -1,0 +1,16 @@
+E:\NastyRobot\NastyRobot\bin\Debug\net5.0\NastyRobot.exe
+E:\NastyRobot\NastyRobot\bin\Debug\net5.0\NastyRobot.deps.json
+E:\NastyRobot\NastyRobot\bin\Debug\net5.0\NastyRobot.runtimeconfig.json
+E:\NastyRobot\NastyRobot\bin\Debug\net5.0\NastyRobot.runtimeconfig.dev.json
+E:\NastyRobot\NastyRobot\bin\Debug\net5.0\NastyRobot.dll
+E:\NastyRobot\NastyRobot\bin\Debug\net5.0\ref\NastyRobot.dll
+E:\NastyRobot\NastyRobot\bin\Debug\net5.0\NastyRobot.pdb
+E:\NastyRobot\NastyRobot\obj\Debug\net5.0\NastyRobot.csprojAssemblyReference.cache
+E:\NastyRobot\NastyRobot\obj\Debug\net5.0\NastyRobot.GeneratedMSBuildEditorConfig.editorconfig
+E:\NastyRobot\NastyRobot\obj\Debug\net5.0\NastyRobot.AssemblyInfoInputs.cache
+E:\NastyRobot\NastyRobot\obj\Debug\net5.0\NastyRobot.AssemblyInfo.cs
+E:\NastyRobot\NastyRobot\obj\Debug\net5.0\NastyRobot.csproj.CoreCompileInputs.cache
+E:\NastyRobot\NastyRobot\obj\Debug\net5.0\NastyRobot.dll
+E:\NastyRobot\NastyRobot\obj\Debug\net5.0\ref\NastyRobot.dll
+E:\NastyRobot\NastyRobot\obj\Debug\net5.0\NastyRobot.pdb
+E:\NastyRobot\NastyRobot\obj\Debug\net5.0\NastyRobot.genruntimeconfig.cache
